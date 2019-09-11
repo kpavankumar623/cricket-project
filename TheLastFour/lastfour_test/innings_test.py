@@ -1,7 +1,7 @@
 import pytest
-from lastfour_main import match
+from lastfour_main import innings
 
-ma = match.Match()
+ma = innnigs.Inning
 def tet_increase_ball():
    ma.increase_ball()#1
    ma.increase_ball()#2
